@@ -23,6 +23,7 @@ from cryptography.hazmat.primitives.asymmetric.ed25519 import Ed25519PrivateKey,
 # Mã sản phẩm -> tên hiển thị. Thêm sản phẩm mới vào đây.
 PRODUCTS = {
     "GIAPHA": "Gia Phả",
+    "OFFLINEOCR": "OfflineOCR Studio",
 }
 
 
